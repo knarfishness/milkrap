@@ -19,6 +19,13 @@ Files have been divided into STL (for printing) and SKP (for editing in SketchUp
 9. [Step 9:  Thats It !!](#step9)
 
 
+# Build of Materials
+| Part        | Link           | Quantity  |
+| ------------- |:-------------:| -----:|
+| Milk Crate      | http://milkcratesdirect.com | 1 |
+| Z Nut Holder      | https://github.com/knarfishness/milkrap/blob/master/STL/Z_Nut_Holder.stl      |   2 |
+
+
 
 # Reorganized README
 ![alt_text](http://cdn.instructables.com/FOV/SK4Q/HIW896HB/FOVSK4QHIW896HB.MEDIUM.jpg "Image Title")
