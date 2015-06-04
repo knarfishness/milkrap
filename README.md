@@ -24,6 +24,7 @@ Files have been divided into STL (for printing) and SKP (for editing in SketchUp
 | ------------- |:-------------:| -----:|
 | Milk Crate      | http://milkcratesdirect.com | 1 |
 | Z Nut Holder      | https://github.com/knarfishness/milkrap/blob/master/STL/Z_Nut_Holder.stl      |   2 |
+| Y Axis Bearing Holder      | https://github.com/knarfishness/milkrap/blob/master/STL/YaxisBearingTower_fixed.stl      |   1 |
 
 
 
